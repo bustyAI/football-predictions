@@ -4,6 +4,7 @@
 - Juan Duarte
 
 ## [Colab Notebook](https://colab.research.google.com/drive/1p3K6O3NX8meuD3TbOWg_FTnwNTadTFZv?authuser=1)
+## [Data Report pdf](https://github.com/bustyAI/football-predictions/blob/main/SportsDataNB.pdf)
 
 ## Intro
 - Football is one of the most popular sports worldwide, that generates a vast amount of interest in betting and selecting winning teams. We will make predictions of which teams will win based on data from previous games results and data.
