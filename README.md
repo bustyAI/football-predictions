@@ -7,7 +7,7 @@
 ## [Data Report pdf](https://github.com/bustyAI/football-predictions/blob/main/SportsDataNB.pdf)
 
 ## Intro
-- Football is one of the most popular sports worldwide, that generates a vast amount of interest in betting and selecting winning teams. We will make predictions of which teams will win based on data from previous games results and data.
+Football is one of the most popular sports worldwide, that generates a vast amount of interest in betting and selecting winning teams. We will make predictions of which teams will win based on data from previous games results and data.
 
 ## Data Description, Preciction Goals, Features as Predictors
 
